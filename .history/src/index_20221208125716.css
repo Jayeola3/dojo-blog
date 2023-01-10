@@ -58,6 +58,9 @@
 .blog-details div {
   margin: 20px 0;
 }
+img{
+  max-width: 100%;
+}
 .blog-details button {
   background: #f1356d;
   color:#fff;

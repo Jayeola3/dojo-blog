@@ -1,0 +1,19 @@
+
+{
+  
+  "blogs": [
+    {
+      "title": "My First blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "yoshi",
+      "url":"../images/croc17.jpg" ,
+      "id": 2
+    }
+  ]
+}
